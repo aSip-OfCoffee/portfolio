@@ -1,2 +1,7 @@
-# portfolio
-tautvydasgrigalauskas.github.io/portfolio
+# Architect
+
+### Eduction
+Architecture studies, Vilnius Academy of Arts
+
+### Work experience
+junior architect @ UrbonDesign
