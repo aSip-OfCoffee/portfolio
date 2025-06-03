@@ -1,7 +1,8 @@
 # Architect
 
 ### Eduction
-Architecture studies, Vilnius Academy of Arts
+Architecture studies, [Vilnius Academy of Arts](https://www.vda.lt/en/)
 
 ### Work experience
 junior architect @ [UrbonDesign]([https://www.urbondesign.lt])
+
